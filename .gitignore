@@ -4,7 +4,6 @@ node_modules/
 **/node_modules/
 .npm
 
-/Frontend/
 # Build outputs
 build/
 dist/
